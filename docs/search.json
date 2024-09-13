@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "thanks.html",
+    "href": "thanks.html",
+    "title": "Thanks",
+    "section": "",
+    "text": "Thank you so much for visiting my website. I love you and wish you have a nice day!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "About me.\nA normal uoft student. I come from China and 21. I like rain and fox. Hence foxrain is my favorate :-)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eason’ Website",
+    "section": "",
+    "text": "This is a Eason’s Quarto website. Welcome!"
+  }
+]
